@@ -7,7 +7,7 @@ var client = new elasticsearch.Client();
 
 var config = {
     user: 'sa',
-    password: '17776666',
+    password: 'xxx',
     server: 'localhost', // You can use 'localhost\\instance' to connect to named instance
     database: 'WEDM',
     stream: true // You can enable streaming globally
